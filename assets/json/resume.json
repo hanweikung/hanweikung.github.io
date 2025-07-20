@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Han-Wei Kung",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hanwei.kung@unitn.it",
+    "phone": "",
+    "url": "https://hanweikung.github.io",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,50 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Trento, Trento, Trento, Italy",
+      "position": "Research Fellow",
+      "url": "",
+      "startDate": "2023-06",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Utilize diffusion models to create realistic human face images."]
+    },
+    {
+      "name": "National University of Singapore, Singapore",
+      "position": "Research Fellow",
+      "url": "",
+      "startDate": "2021-10",
+      "endDate": "2023-05",
+      "summary": "",
+      "highlights": ["Utilized Generative Adversarial Networks to transfer body movements between different human subjects."]
+    },
+    {
+      "name": "Pinscreen, Los Angeles, California, USA",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2017-06",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": [
+        "Synthesized face images and videos using deep neural networks.",
+        "Processed face images for building deep learning models that generate 3D face models and textures.",
+        "Built pipeline that automates data processing in the Unity game engine.",
+        "Developed interfaces that allow users to download and render 3D human models from 2D pictures with the Unity game engine.",
+        "Collaborated with team members to integrate art assets (3D models, animation, and materials) for real-time visual content."
+      ]
+    },
+    {
+      "name": "DreamWorks Animation, Los Angeles, California, USA",
+      "position": "Research and Development Shading Intern",
+      "url": "",
+      "startDate": "2016-06",
+      "endDate": "2016-09",
+      "summary": "",
+      "highlights": [
+        "Developed a wireframe shader, which provides the edge flow and topology information of a 3D model.",
+        "Developed a curvature shader, which visualizes mesh curvature by measuring the angle between the surface normal and its neighboring normals.",
+        "Developed a blend normal shader, which shades objects by interpolating colors based on the angle between the normal at the point being shaded and the viewing direction."
+      ]
     }
   ],
   "volunteer": [
@@ -47,24 +84,80 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "UC Santa Barbara, Santa Barbara, California, USA",
+      "url": "",
+      "area": "Media Arts and Technology",
+      "studyType": "Ph.D.",
+      "startDate": "2014",
+      "endDate": "2019"
+    },
+    {
+      "institution": "Texas A&M University, College Station, Texas, USA",
+      "url": "",
+      "area": "Visualization",
+      "studyType": "M.S.",
+      "startDate": "2012",
+      "endDate": "2014"
+    },
+    {
+      "institution": "Cornell University, Ithaca, New York, USA",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "M.Eng.",
+      "startDate": "2010",
+      "endDate": "2011"
+    },
+    {
+      "institution": "National Chiao Tung University, Hsinchu, Taiwan",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2003",
+      "endDate": "2007"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Yin Chin Scholarship",
+      "date": "2016",
+      "awarder": "Yin Chin Foundation of USA, Los Angeles, California, USA",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Study Abroad Scholarship",
+      "date": "2015",
+      "awarder": "Taiwan Ministry of Education, Taipei, Taiwan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Departmental Honors Scholarship",
+      "date": "2012",
+      "awarder": "Texas A&M University, College Station, Texas, USA",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Presidential Award",
+      "date": "2007",
+      "awarder": "National Chiao Tung University, Hsinchu, Taiwan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Study Abroad Scholarship",
+      "date": "2006",
+      "awarder": "National Chiao Tung University, Hsinchu, Taiwan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Zyxel Scholarship",
+      "date": "2006",
+      "awarder": "Zyxel Communications, Hsinchu, Taiwan",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
